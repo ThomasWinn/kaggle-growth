@@ -2,3 +2,7 @@ pandas
 matplotlib
 sns
 scikit-learn
+seaborn
+yellowbrick
+plotly
+mlxtend
